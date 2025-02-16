@@ -26,3 +26,5 @@ Problemer:
 - Use Case:
   - Legger inn nye dokumenter, og ønsker å regenerere sortering
 - Tittel ved siden av dato på sortert visning
+
+* cmd install command will fail if the folder doesn't exist.
