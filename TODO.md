@@ -19,3 +19,10 @@ Note: Some todo-items may have gotten lost whn recovering earlier file
 // Helper: Object.getOwnPropertyNames(obj)
 
 * Auto-Detect from code whether Acrobat is using Light Mode or Dark Mode
+
+
+Problemer:
+- Sjekk på om har kjørt feiler
+- Use Case:
+  - Legger inn nye dokumenter, og ønsker å regenerere sortering
+- Tittel ved siden av dato på sortert visning
